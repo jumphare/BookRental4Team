@@ -1,5 +1,7 @@
 # Just Like Book
-**[:link: ppt](https://pitch.com/public/4ae40639-b124-4834-b636-6b8ece7cff78)** 
+**[:link: Project PDF](https://github.com/simjin1212/Camping4team/files/8885504/default.pdf)**
+
+**[:link: Web ppt](https://pitch.com/public/4ae40639-b124-4834-b636-6b8ece7cff78)** 
 
 ![image](https://user-images.githubusercontent.com/96432168/173070886-5ddc9f25-942b-42e5-ba0e-df3055b9c102.png)
 
